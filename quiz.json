@@ -8,5 +8,95 @@
         "question": "What is the largest planet in our solar system?",
         "choices": ["Earth", "Jupiter", "Saturn", "Mars"],
         "correctAnswer": 1
+    },
+    {
+        "question": "What does KFC stand for?",
+        "choices": ["King For Chickens", "Knight Fried Company", "Kentucky Fried Chicken", "Kenya Fried Chicken"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What street does the British prime minister live on?",
+        "choices": ["Downing Street", "NewCastle", "Denim Street", "Alfred Street"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Mycology is the study of what?",
+        "choices": ["Bone", "Plant", "Animal", "Fungi"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "choices": ["1988", "1945", "1989", "1887"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which TV show features Tommy Shelby, Alfie Solomons and Luca Changretta?",
+        "choices": ["Peaky Blinders", "Mary Douglas", "Kate Henshaw", "Peter Drury"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who founded Amazon?",
+        "choices": ["Donald Trump", "Elon Musk", "Ali Baba", "Jeff Bezos"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is Batman’s butler called?",
+        "choices": ["Bond", "Parker", "Catty", "Alfred"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Jimmy Page formed which rock band?",
+        "choices": ["Jazz Dell", "Led Zeppelin", "Monica Band", "Broad Music"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "On what date is Independence Day in the USA?",
+        "choices": ["May 3rd", "July 4th", "July 14th", "October 1"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a female donkey called?",
+        "choices": ["Little Donkey", "Donkress", "A jenny", "Deeni"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Greek mythology, who was the father of Zeus?",
+        "choices": ["Bintle", "Rocky", "Titus", "Kronos"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the currency of Denmark?",
+        "choices": ["Danish Krone", "Denmark Dollar", "Danish penny", "Euro"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Arachnophobia is the fear of what?",
+        "choices": ["Ant", "Plant", "Spiders", "Crocodile"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which volcano destroyed the city of Pompeii?",
+        "choices": ["Anatty", "Mount Vesuvius", "Hill Verve", "Mount Goza"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Alastair Cook plays which sport?",
+        "choices": ["Baseball", "Football", "Long Tennis", "Cricket"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who wrote ‘The Hunger Games’?",
+        "choices": ["Kitz Perez", "Suzanne Collins", "Amoah Gazani", "Koli Paul"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which US agency has the motto “Fidelity, Bravery, Integrity”?",
+        "choices": ["FBI", "S.W.A.T", "CIA", "MI6"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which sea borders the north of Turkey?",
+        "choices": ["Turkey Sea", "Roga Sea", "Black Sea", "Red Sea"],
+        "correctAnswer": 2
     }
 ]
