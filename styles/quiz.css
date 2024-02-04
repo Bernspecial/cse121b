@@ -67,6 +67,7 @@ button {
         text-align: center;
         font-family: "Montserrat";
         font-size: 15px;
+        padding-bottom: 50px;
     }
     .image{
         width: 100%;
@@ -76,7 +77,8 @@ button {
     .quiz-link{
         text-align: center;
         font-family: "Montserrat";
-        font-size: 10px;
+        font-size: 20px;
+        margin-top: 20%;
     }
     .quiz-link a:hover{
         background-color: brown;
