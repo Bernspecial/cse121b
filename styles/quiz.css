@@ -51,6 +51,11 @@ body {
 button {
     margin-right: 10px;
 }
+footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Montserrat";
+}
 
 @media screen and (max-width: 900px){
     body{
@@ -105,6 +110,13 @@ button {
     }
     button {
         margin-right: 10px;
+    }
+
+    footer{
+        text-align: center;
+        font-size: 15px;
+        font-family: "Montserrat";
+        color: blueviolet;
     }
 
     
