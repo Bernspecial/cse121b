@@ -55,6 +55,7 @@ footer{
     text-align: center;
     font-size: 30px;
     font-family: "Montserrat";
+    margin-top: 400px;
 }
 
 @media screen and (max-width: 900px){
@@ -85,7 +86,7 @@ footer{
         text-align: center;
         font-family: "Montserrat";
         font-size: 20px;
-        margin-top: 20%;
+        margin-top: 15%;
         color: blueviolet;
 
     }
@@ -117,6 +118,7 @@ footer{
         font-size: 15px;
         font-family: "Montserrat";
         color: blueviolet;
+        margin-top: 100px;
     }
 
     

@@ -12,6 +12,12 @@
         <div id="quiz"></div>
         <div id="results"></div>
     </div>
+    <footer>
+        &copy;<span id="year"></span> | Michael Bernard Olayemi | First Simple JavaScript Project | CSE 121b
+    </footer>   
+    <script>
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+    </script>
 
     <script src="scripts/quiz.js"></script>
 </body>
