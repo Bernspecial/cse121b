@@ -53,68 +53,28 @@ button {
 }
 
 @media screen and (max-width: 900px){
+    body{
+        background-color:blanchedalmond;
+    }
     .Quiz-Head{
         font-family: "Protest Guerrilla";
     }
     #quiz{
         font-family: "Montserrat";
     }
-    /* h2{
-        font-size: ;
-    } */
-    .h1{
-        text-align: center;
-        font-family: "Montserrat";
-    }
-    .image{
-        width: 100%;
-    }
-    .quiz-link{
-        text-align: center;
-        margin-top: -50px;
-        font-family: "Montserrat";
-        font-size: 30px;
-    }
-    .quiz-link a:hover{
-        background-color: brown;
-        color: cornsilk;
-        font-style: italic;
-    }
-    .container {
-        max-width: 700px;
-        margin: 0 auto;
-        border: solid black;
-        text-align: center;
-        margin-top: 200px;
-        background-color: bisque;
-        padding: 20px;
-    }
-    .question {
-        margin-bottom: 20px;
-    }
-    .choices {
-        margin-bottom: 20px;
-    }
-    button {
-        margin-right: 10px;
-    }
-    /* .Quiz-Head{
-        font-family: "Protest Guerrilla";
-    }
-    #quiz{
-        font-family: "Montserrat";
-    }
+
     .h1{
         text-align: center;
         font-family: "Montserrat";
         font-size: 15px;
     }
     .image{
-        width: 50%;
+        width: 100%;
+        height: 100%;
+
     }
     .quiz-link{
         text-align: center;
-        margin-top: -10px;
         font-family: "Montserrat";
         font-size: 10px;
     }
@@ -139,7 +99,7 @@ button {
     }
     button {
         margin-right: 10px;
-    } */
+    }
 
     
     
